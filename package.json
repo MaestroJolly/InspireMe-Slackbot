@@ -1,5 +1,5 @@
 {
-  "name": "Inspire Me",
+  "name": "InspireMe",
   "version": "1.0.0",
   "description": "Slackbot displays random inspiring techie quotes and jokes for developers/designers built in NodeJS and and Slackbot.js",
   "main": "index.js",

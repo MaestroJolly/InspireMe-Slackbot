@@ -1,0 +1,30 @@
+{
+  "name": "Inspire Me",
+  "version": "1.0.0",
+  "description": "Slackbot displays random inspiring techie quotes and jokes for developers/designers built in NodeJS and and Slackbot.js",
+  "main": "index.js",
+  "engine": {
+    "node": "8.9.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaestroJolly/slackbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaestroJolly/slackbot/issues"
+  },
+  "homepage": "https://github.com/MaestroJolly/slackbot#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "slackbots": "^1.2.0"
+  }
+}

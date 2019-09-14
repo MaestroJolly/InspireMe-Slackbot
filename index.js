@@ -21,13 +21,6 @@ bot.on('start', () => {
         'Get inspired while working with @inspireme',
         params
     );
-
-    // define existing username instead of 'user_name'
-    bot.postMessageToUser('user_name', 'Hello world!', params); 
-   
-    
-    // define private group instead of 'private_group', where bot exist
-    bot.postMessageToGroup('private_group', 'Hello world!', params); 
 })
 
 // Error Handler
